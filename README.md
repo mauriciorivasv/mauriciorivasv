@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQHgpdD8YKQ0lw/profile-displaybackgroundimage-shrink_350_1400/0/1680539366949?e=1709164800&v=beta&t=CETHZLhxnQoHFH9V2v4lgUch5Z4NfZov_6EtLFwpynE)" style="max-width:50%;">
+<img src="https://media.licdn.com/dms/image/D4E16AQHgpdD8YKQ0lw/profile-displaybackgroundimage-shrink_350_1400/0/1680539366949?e=1709164800&v=beta&t=CETHZLhxnQoHFH9V2v4lgUch5Z4NfZov_6EtLFwpynE" style="max-width:50%;">
 <h1>Mauricio Rivas<h1>
   <body>
     Information Systems and Computer Science student at George Washington University School of Engineering and School of Business.
